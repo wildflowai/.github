@@ -4,4 +4,4 @@
 
 > Empower biodiversity researchers with modern AI infrastructure!
 
-![wildflow](/profile/wildflow.svg)
+![wildflow](https://github.com/wildflowai/.github/blob/main/profile/wildflow.svg)
