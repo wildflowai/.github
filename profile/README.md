@@ -4,4 +4,7 @@
 
 > Empower biodiversity researchers with modern AI infrastructure!
 
-![wildflow](https://github.com/wildflowai/.github/blob/main/profile/wildflow.svg)
+![wildflow](https://raw.githubusercontent.com/wildflowai/.github/main/profile/wildflow.svg)
+
+Here's a list of real-world applications where the platform could be used:
+![wildflow-applications](https://raw.githubusercontent.com/wildflowai/.github/main/profile/wildflow-applications.svg)
