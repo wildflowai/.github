@@ -8,7 +8,7 @@ In today's landscape, biodiversity researchers must not only excel in understand
 
 ### Overview
 
-![wildflow](profile/wildflow.svg?raw=true)
+![wildflow](https://raw.githubusercontent.com/wildflowai/.github/main/profile/profile/wildflow.svg)
 
 We offer an open platform that specializes in **time series geospatial biodiversity data**, enabling in-depth study of marine **population dynamics** and providing essential **building blocks** to work on marine **biodiversity** applications.
 
@@ -26,11 +26,11 @@ We incorporate additional data sources like **satellite** data, **weather** data
 
 We provide quality control tools and a visualization layer to streamline analysis and promote insights.
 
-![wildflow-explorer](/profile/wildflow-explorer.png?raw=true)
+![wildflow-explorer](https://raw.githubusercontent.com/wildflowai/.github/main/profile/wildflow-explorer.png)
 
 ## Applications
 
-![wildflow-applications](wildflow-applications.svg?raw=true)
+![wildflow-applications](https://raw.githubusercontent.com/wildflowai/.github/main/profile/wildflow-applications.svg)
 
 Our platform supports various applications, including:
 
