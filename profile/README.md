@@ -1,49 +1,18 @@
-# Wild Flow 🌎 🐳
+<p align="center">
+  <a href="https://wildflow.ai" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/wildflowai/.github/main/profile/wildflow-logo-dark.svg"
+      />
+      <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/wildflowai/.github/main/profile/wildflow-logo-light.svg"
+      />
+      <img alt="wildflow logo" width="60%"
+          src="https://raw.githubusercontent.com/wildflowai/.github/main/profile/wildflow-logo-dark.svg"
+      />
+    </picture>
+  </a>
+</p>
 
-[wildflow.ai](https://wildflow.ai) is an open marine biodiversity data platform aiming to protect oceans by accelerating research and conservation.
 
-### Empower biodiversity researchers with modern AI infrastructure!
-
-In today's landscape, biodiversity researchers must not only excel in understanding nature and addressing the biodiversity crisis, but they also need to master big data management. This includes building data pipelines, aggregating data from various sources, cleaning data, handling extensive big data operations and deploying novel models for multi-model data formats.
-
-### Overview
-
-![wildflow](https://raw.githubusercontent.com/wildflowai/.github/main/profile/wildflow.svg)
-
-We offer an open platform that specializes in **time series geospatial biodiversity data**, enabling in-depth study of marine **population dynamics** and providing essential **building blocks** to work on marine **biodiversity** applications.
-
-## Features
-
-### Data Ingestion & Standardization
-
-The platform accepts diverse data types such as **eDNA**, **bioacoustics**, **computer vision**, **remote sensing**, and more. All data is standardized, paving the way for universally applicable machine learning models.
-
-### Supplemental Data & Collaboration
-
-We incorporate additional data sources like **satellite** data, **weather** data, **genomics** data and **taxonomy**. Our platform fosters collaboration by simplifying data ingestion, sharing, and exporting to tools like R and Python Pandas.
-
-### Tools & Visualization
-
-We provide quality control tools and a visualization layer to streamline analysis and promote insights.
-
-![wildflow-explorer](https://raw.githubusercontent.com/wildflowai/.github/main/profile/wildflow-explorer.png)
-
-## Applications
-
-![wildflow-applications](https://raw.githubusercontent.com/wildflowai/.github/main/profile/wildflow-applications.svg)
-
-Our platform supports various applications, including:
-
-- creation of marine protected areas (MPAs),
-- impact assessment of offshore wind farms,
-- pet food fish procurement,
-- invasive species opportunities,
-- seaweed farm monitoring,
-- coral bleaching prediction,
-- monitoring, reporting and verification (MRV) for biodiversity,
-- biodiversity credits, and
-- harmful algae bloom forecasts.
-
-Now also is a good time to leverage LLMs for enhanced biodiversity studies 😉
-
-We welcome contributions to this mission of ocean conservation. Join us! 🤗
+We empower humans to protect and restore Earth's vibrant ecosystems,­ like coral reefs,­ by harnessing AI to analyze petabytes of nature data,­ model complex ecosystem dynamics, and coordinate precise actions. Learn more: [wildflow.ai/docs](https://wildflow.ai/docs).
